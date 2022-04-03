@@ -1,0 +1,9 @@
+{
+	"name": "jsjseval",
+	"displayName": "JSJSEval",
+	"author": "Xandertron",
+	"description": "Mindustry server plugin to run js",
+	"version": "1.0",
+	"minGameVersion": 135,
+	"hidden": true
+}
